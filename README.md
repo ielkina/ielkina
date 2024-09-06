@@ -1,6 +1,6 @@
 # Hi there 👋
 
-|<h2>Stats</h2>|<h2>Technologies</h2>|
+|Stats|Technologies|
 |-|--------|
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ielkina)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ielkina&layout=compact)|
 
