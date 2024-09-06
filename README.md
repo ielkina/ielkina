@@ -1,16 +1,8 @@
 # Hi there 👋
 
-## Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ielkina)
-
----
-
-## Technologies
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ielkina&layout=compact)
-
----
+|<h2>Stats</h2>|<h2>Technologies</h2>|
+|-|--------|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ielkina)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ielkina&layout=compact)|
 
 <!--
 **ielkina/ielkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
