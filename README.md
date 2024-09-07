@@ -17,6 +17,7 @@
 ## Helpful YouTube Channel/Videos
 
 ## Follow Me
+[![Telegram](https://github.com/ielkina/ielkina/blob/main/assets/tg.png)](https://t.me/iryna_ielkina)
 
 <!--
 **ielkina/ielkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
