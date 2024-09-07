@@ -18,7 +18,7 @@
 
 ## Follow Me
 [![Telegram](https://github.com/ielkina/ielkina/blob/main/assets/tg.png)](https://t.me/iryna_ielkina)
-[![Linkedin](https://github.com/ielkina/ielkina/blob/main/assets/in.png)](https://www.linkedin.com/in/%D0%B8%D1%80%D0%B8%D0%BD%D0%B0-%D0%B5%D0%BB%D1%8C%D0%BA%D0%B8%D0%BD%D0%B0-263596262/)
+[![Linkedin](https://github.com/ielkina/ielkina/blob/main/assets/in.png)](https://www.linkedin.com/in/iryna-ielkina-263596262/)
 
 <!--
 **ielkina/ielkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
