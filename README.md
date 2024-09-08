@@ -6,6 +6,8 @@
 
 ## Language and Tools
 
+<img align="left" alt="HTML5" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/html.png" />
+
 ## Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ielkina&layout=compact)
