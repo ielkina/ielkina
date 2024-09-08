@@ -40,9 +40,8 @@ Here are some ideas to get you started:
 ## Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ielkina&layout=compact&show_icons=true&theme=radical)
-## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ielkina)
+## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ielkina&show_icons=true&theme=radical)
 
