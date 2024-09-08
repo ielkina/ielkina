@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/gulp.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/zeplin-icon.webp" />
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/webpuck.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/react-logo.jpg" />
+<img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/react.jpg" />
 
 <br>
 
