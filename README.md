@@ -7,6 +7,7 @@
 ## Language and Tools
 
 <img align="left" alt="HTML5" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/html.png" />
+<hr>
 
 ## Languages
 
