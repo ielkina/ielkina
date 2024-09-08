@@ -45,6 +45,12 @@ Here are some ideas to get you started:
 
 ## Helpful YouTube Channel/Videos
 
+[https://www.youtube.com/@goitfrontend7563](https://www.youtube.com/@goitfrontend7563)
+
+[www.youtube.com/@YauhenKavalchuk](https://www.youtube.com/@YauhenKavalchuk)
+
+[https://www.youtube.com/@FreelancerLifeStyle](https://www.youtube.com/@FreelancerLifeStyle)
+
 ## Follow Me
 [![Telegram](https://github.com/ielkina/ielkina/blob/main/assets/tg.png)](https://t.me/iryna_ielkina)
 [![Linkedin](https://github.com/ielkina/ielkina/blob/main/assets/in.png)](https://www.linkedin.com/in/iryna-ielkina-263596262/)
