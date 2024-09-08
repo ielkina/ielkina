@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ## Portfolio
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ielkina&repo=Marcho)](https://github.com/ielkina/Marcho)
+
 ## Language and Tools
 
 <img align="left" alt="HTML5" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/html.png" />
