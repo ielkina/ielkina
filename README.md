@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Portfolio
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ielkina&repo=Marcho&show_icons=true&theme=radical)](https://github.com/ielkina/Marcho)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ielkina&repo=js-project&show_icons=true&theme=radical)](https://github.com/ielkina/js-project)
 
 ## Language and Tools
 
