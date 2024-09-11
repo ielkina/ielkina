@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 
 ## Language and Tools
 
-<img align="left" alt="HTML5" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/html.png" />
-<img align="left" alt="HTML5" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/css.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/js.png" />
+<img align="left" alt="HTML5" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/html.png" /><img align="left" alt="HTML5" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/css.png" /><img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/js.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/sass.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/less.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/pug.webp" />
