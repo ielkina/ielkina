@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/parcel.png" />
 
 <br>
+<br>
 
 ## Languages
 
