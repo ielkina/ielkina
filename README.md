@@ -35,16 +35,12 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/sass.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/less.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/babel.png" />
-<br>
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/git.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/github.png" />
-<br>
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/vscode.png" />
-<br>
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/figma.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/ps.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/zeplin-icon.webp" />
-<br>
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/gulp.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/webpuck.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/parcel.png" />
