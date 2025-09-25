@@ -47,6 +47,10 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/react.webp" />
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/postman.svg" />
 <img align="left" alt="JavaScript" width="64px" heigth="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/jira.png" />
+<br>
+<br>
+<br>
+
 ## Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ielkina&layout=compact&show_icons=true&theme=radical)
@@ -66,5 +70,3 @@ Here are some ideas to get you started:
 ## Follow Me
 [![Telegram](https://github.com/ielkina/ielkina/blob/main/assets/tg.png)](https://t.me/iryna_ielkina)
 [![Linkedin](https://github.com/ielkina/ielkina/blob/main/assets/in.png)](https://www.linkedin.com/in/iryna-ielkina-263596262/)
-
-
