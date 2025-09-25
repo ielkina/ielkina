@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-## About me and my practice task
+<!-- ## About me and my practice task -->
 
 <!--<a href="https://www.canva.com/design/DAGTE72WEQA/53Hz1Nr9pNbtbpBdY6bDMw/view?utm_content=DAGTE72WEQA&utm_campaign=designshare&utm_medium=link&utm_source=editor">Summary</a>-->
 <!--
@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Portfolio
+<!-- ## Portfolio -->
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ielkina&repo=js-project&show_icons=true&theme=radical)](https://github.com/ielkina/js-project)-->
 
-## Language and Tools
+## Tech skills and Tools
 
 <img align="left" alt="HTML5" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/html.png" />
 <img align="left" alt="HTML5" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/css.png" />
