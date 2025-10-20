@@ -1,8 +1,10 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="iryna-ielkina" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/iryna-ielkina?trk=profile-badge">IRYNA IELKINA</a></div>
+              
 <!-- ## About me and my practice task -->
 
 <!--<a href="https://www.canva.com/design/DAGTE72WEQA/53Hz1Nr9pNbtbpBdY6bDMw/view?utm_content=DAGTE72WEQA&utm_campaign=designshare&utm_medium=link&utm_source=editor">Summary</a>-->
