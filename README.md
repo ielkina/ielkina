@@ -8,6 +8,10 @@
 
 SUMMARY
 
+I am a Junior QA Engineer with a quality-first mindset and a passion for building intuitive, bug-free digital products. Experienced in manual testing, writing test cases, and reporting bugs using tools like Jira, TestRail, and Postman. Detail-driven, analytical, and quick to grasp new technologies.
+Contributed to testing web and mobile applications in training projects, aiming to apply skills in real-world scenarios and grow toward automation. Collaborative, receptive to feedback, and committed to delivering reliable results.
+
+
               
 <!-- ## About me and my practice task -->
 
