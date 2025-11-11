@@ -1,19 +1,37 @@
-<h1>
-  Hey there
+<h1>IRYNA IELKINA</h1>
+<h2>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  Hey there
+</h2>
+Welcome to my GitHub! I'm a Junior QA Manual Engineer with a technical background in front-end development. I love clean documentation, structured testing, and continuous learning.
+🧪 QA Manual Engineer
+Skilled in Jira, Trello, TestRail, Postman, DevTools, DBeaver, MySQL
+Familiar with Agile/Scrum, API testing, and bug reporting
+Passionate about improving product quality and supporting team processes
+📂 About Me and My Practice Tasks
+Here you'll find:
+Practice projects from QA courses
+Bug reports, checklists, and test documentation
+UI and API testing examples
+Translations and formatting experiments in English, Ukrainian, and Russian
 
-
-
+📝 Summary
+Detail-oriented, collaborative, and result-driven
+Fluent in three languages for technical and everyday communication
+Always exploring new tools and productivity methods
+Seeking opportunities to contribute and grow in a dynamic QA team
 
 SUMMARY
-
-I am a Junior QA Engineer with a quality-first mindset and a passion for building intuitive, bug-free digital products. Experienced in manual testing, writing test cases, and reporting bugs using tools like Jira, TestRail, and Postman. Detail-driven, analytical, and quick to grasp new technologies.
-Contributed to testing web and mobile applications in training projects, aiming to apply skills in real-world scenarios and grow toward automation. Collaborative, receptive to feedback, and committed to delivering reliable results.
-
-
-              
-<!-- ## About me and my practice task -->
+<br>
+<br>
+I am a Junior QA Engineer with a quality-first mindset and a passion for
+building intuitive, bug-free digital products. Experienced in manual testing,
+writing test cases, and reporting bugs using tools like Jira, TestRail, and
+Postman. Detail-driven, analytical, and quick to grasp new technologies.
+Contributed to testing web and mobile applications in training projects, aiming
+to apply skills in real-world scenarios and grow toward automation.
+Collaborative, receptive to feedback, and committed to delivering reliable
+results.
 
 <!--<a href="https://www.canva.com/design/DAGTE72WEQA/53Hz1Nr9pNbtbpBdY6bDMw/view?utm_content=DAGTE72WEQA&utm_campaign=designshare&utm_medium=link&utm_source=editor">Summary</a>-->
 <!--
@@ -78,5 +96,6 @@ Here are some ideas to get you started:
 [https://www.youtube.com/@FreelancerLifeStyle](https://www.youtube.com/@FreelancerLifeStyle)
 
 ## Follow Me
+
 [![Telegram](https://github.com/ielkina/ielkina/blob/main/assets/tg.png)](https://t.me/iryna_ielkina)
 [![Linkedin](https://github.com/ielkina/ielkina/blob/main/assets/in.png)](https://www.linkedin.com/in/iryna-ielkina-263596262/)
