@@ -87,6 +87,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ielkina&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 ## Helpful YouTube Channel/Videos
 
 [https://www.youtube.com/@goitfrontend7563](https://www.youtube.com/@goitfrontend7563)
