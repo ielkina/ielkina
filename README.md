@@ -72,6 +72,8 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="32px" src="assets/postman.svg" />
 <img align="left" alt="JavaScript" width="64px" heigth="32px" src="assets/jira.png" />
 
+<br>
+
 ## Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ielkina&layout=compact&show_icons=true&theme=radical)
