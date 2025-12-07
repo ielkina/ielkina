@@ -51,27 +51,26 @@ Here are some ideas to get you started:
 
 ## Tech skills and Tools
 
-<img align="left" alt="HTML5" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/html.png" />
 <img align="left" alt="HTML5" width="32px" src="assets/html.png" />
-<img align="left" alt="HTML5" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/css.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/js.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/pug.webp" />
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/handlebars.webp" />
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/sass.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/less.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/babel.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/git.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/github.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/vscode.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/figma.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/ps.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/zeplin-icon.webp" />
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/gulp.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/webpuck.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/parcel.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/react.webp" />
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/postman.svg" />
-<img align="left" alt="JavaScript" width="64px" heigth="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/jira.png" />
+<img align="left" alt="HTML5" width="32px" src="assets/css.png" />
+<img align="left" alt="JavaScript" width="32px" src="assets/js.png" />
+<img align="left" alt="JavaScript" width="32px" src="assets/pug.webp" />
+<img align="left" alt="JavaScript" width="32px" src="assets/handlebars.webp" />
+<img align="left" alt="JavaScript" width="32px" src="assets/sass.png" />
+<img align="left" alt="JavaScript" width="32px" src="assets/less.png" />
+<img align="left" alt="JavaScript" width="32px" src="assets/babel.png" />
+<img align="left" alt="JavaScript" width="32px" src="assets/git.png" />
+<img align="left" alt="JavaScript" width="32px" src="assets/github.png" />
+<img align="left" alt="JavaScript" width="32px" src="assets/vscode.png" />
+<img align="left" alt="JavaScript" width="32px" src="assets/figma.png" />
+<img align="left" alt="JavaScript" width="32px" src="assets/ps.png" />
+<img align="left" alt="JavaScript" width="32px" src="assets/zeplin-icon.webp" />
+<img align="left" alt="JavaScript" width="32px" src="assets/gulp.png" />
+<img align="left" alt="JavaScript" width="32px" src="assets/webpuck.png" />
+<img align="left" alt="JavaScript" width="32px" src="assets/parcel.png" />
+<img align="left" alt="JavaScript" width="32px" src="assets/react.webp" />
+<img align="left" alt="JavaScript" width="32px" src="assets/postman.svg" />
+<img align="left" alt="JavaScript" width="64px" heigth="32px" src="assets/jira.png" />
 
 ## Languages
 
