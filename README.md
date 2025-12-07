@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ielkina&theme=radical&border_radius=5.4&locale=uk&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ielkina?theme=unicorn&font=Roboto&ext=heatmap&site=cn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&font=Roboto&ext=heatmap&site=cn)
 
 ## Helpful YouTube Channel/Videos
 
