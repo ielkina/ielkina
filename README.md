@@ -3,7 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Hey there
 </h2>
-Welcome to my GitHub! I'm a Junior QA Manual Engineer with a technical background in front-end development. I love clean documentation, structured testing, and continuous learning.
+
+<!-- Welcome to my GitHub! I'm a Junior QA Manual Engineer with a technical background in front-end development. I love clean documentation, structured testing, and continuous learning.
 🧪 QA Manual Engineer
 Skilled in Jira, Trello, TestRail, Postman, DevTools, DBeaver, MySQL
 Familiar with Agile/Scrum, API testing, and bug reporting
@@ -13,7 +14,7 @@ Here you'll find:
 Practice projects from QA courses
 Bug reports, checklists, and test documentation
 UI and API testing examples
-Translations and formatting experiments in English, Ukrainian, and Russian
+Translations and formatting experiments in English, Ukrainian, and Russian -->
 
 <!-- 📝 Summary Detail-oriented, collaborative, and result-driven Fluent in three
 languages for technical and everyday communication Always exploring new tools
@@ -51,7 +52,7 @@ Here are some ideas to get you started:
 
 ## Tech skills and Tools
 
-<img align="left" alt="HTML5" width="32px" src="assets/html.png" />
+<!-- <img align="left" alt="HTML5" width="32px" src="assets/html.png" />
 <img align="left" alt="HTML5" width="32px" src="assets/css.png" />
 <img align="left" alt="JavaScript" width="32px" src="assets/js.png" />
 <img align="left" alt="JavaScript" width="32px" src="assets/pug.webp" />
@@ -70,29 +71,27 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="32px" src="assets/parcel.png" />
 <img align="left" alt="JavaScript" width="32px" src="assets/react.webp" />
 <img align="left" alt="JavaScript" width="32px" src="assets/postman.svg" />
-<img align="left" alt="JavaScript" width="64px" heigth="32px" src="assets/jira.png" />
-
-<br>
+<img align="left" alt="JavaScript" width="64px" heigth="32px" src="assets/jira.png" /> -->
 
 ## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ielkina&layout=compact&show_icons=true&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ielkina&layout=compact&show_icons=true&theme=radical) -->
 
 ## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ielkina&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ielkina&show_icons=true&theme=radical)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ielkina&theme=radical&border_radius=5.4&locale=uk&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ielkina&theme=radical&border_radius=5.4&locale=uk&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a> -->
 
 ## Helpful YouTube Channel/Videos
 
-[https://www.youtube.com/@goitfrontend7563](https://www.youtube.com/@goitfrontend7563)
+<!-- [https://www.youtube.com/@goitfrontend7563](https://www.youtube.com/@goitfrontend7563) -->
 
-[www.youtube.com/@YauhenKavalchuk](https://www.youtube.com/@YauhenKavalchuk)
+<!-- [www.youtube.com/@YauhenKavalchuk](https://www.youtube.com/@YauhenKavalchuk) -->
 
-[https://www.youtube.com/@FreelancerLifeStyle](https://www.youtube.com/@FreelancerLifeStyle)
+<!-- [https://www.youtube.com/@FreelancerLifeStyle](https://www.youtube.com/@FreelancerLifeStyle) -->
 
 ## Follow Me
 
-[![Telegram](https://github.com/ielkina/ielkina/blob/main/assets/tg.png)](https://t.me/iryna_ielkina)
-[![Linkedin](https://github.com/ielkina/ielkina/blob/main/assets/in.png)](https://www.linkedin.com/in/iryna-ielkina-263596262/)
+<!-- [![Telegram](https://github.com/ielkina/ielkina/blob/main/assets/tg.png)](https://t.me/iryna_ielkina) -->
+<!-- [![Linkedin](https://github.com/ielkina/ielkina/blob/main/assets/in.png)](https://www.linkedin.com/in/iryna-ielkina-263596262/) -->
