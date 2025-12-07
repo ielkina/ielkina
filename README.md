@@ -89,6 +89,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ielkina&theme=dark&border_radius=5.4&locale=uk&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ielkina&theme=radical&border_radius=5.4&locale=uk&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
 ## Helpful YouTube Channel/Videos
 
 [https://www.youtube.com/@goitfrontend7563](https://www.youtube.com/@goitfrontend7563)
