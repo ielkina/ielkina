@@ -15,25 +15,21 @@ Bug reports, checklists, and test documentation
 UI and API testing examples
 Translations and formatting experiments in English, Ukrainian, and Russian
 
-📝 Summary
-Detail-oriented, collaborative, and result-driven
-Fluent in three languages for technical and everyday communication
-Always exploring new tools and productivity methods
-Seeking opportunities to contribute and grow in a dynamic QA team
+<!-- 📝 Summary Detail-oriented, collaborative, and result-driven Fluent in three
+languages for technical and everyday communication Always exploring new tools
+and productivity methods Seeking opportunities to contribute and grow in a
+dynamic QA team
 
-SUMMARY
-<br>
-<br>
-I am a Junior QA Engineer with a quality-first mindset and a passion for
-building intuitive, bug-free digital products. Experienced in manual testing,
-writing test cases, and reporting bugs using tools like Jira, TestRail, and
-Postman. Detail-driven, analytical, and quick to grasp new technologies.
+SUMMARY <br> <br> I am a Junior QA Engineer with a quality-first mindset and a
+passion for building intuitive, bug-free digital products. Experienced in manual
+testing, writing test cases, and reporting bugs using tools like Jira, TestRail,
+and Postman. Detail-driven, analytical, and quick to grasp new technologies.
 Contributed to testing web and mobile applications in training projects, aiming
 to apply skills in real-world scenarios and grow toward automation.
 Collaborative, receptive to feedback, and committed to delivering reliable
-results.
+results. -->
 
-<!--<a href="https://www.canva.com/design/DAGTE72WEQA/53Hz1Nr9pNbtbpBdY6bDMw/view?utm_content=DAGTE72WEQA&utm_campaign=designshare&utm_medium=link&utm_source=editor">Summary</a>-->
+<!-- <a href="https://www.canva.com/design/DAGTE72WEQA/53Hz1Nr9pNbtbpBdY6bDMw/view?utm_content=DAGTE72WEQA&utm_campaign=designshare&utm_medium=link&utm_source=editor">Summary</a> -->
 <!--
 **ielkina/ielkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -56,6 +52,7 @@ Here are some ideas to get you started:
 ## Tech skills and Tools
 
 <img align="left" alt="HTML5" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/html.png" />
+<img align="left" alt="HTML5" width="32px" src="assets/html.png" />
 <img align="left" alt="HTML5" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/css.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/js.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/pug.webp" />
@@ -75,9 +72,6 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/react.webp" />
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/postman.svg" />
 <img align="left" alt="JavaScript" width="64px" heigth="32px" src="https://github.com/ielkina/ielkina/blob/main/assets/jira.png" />
-<br>
-<br>
-<br>
 
 ## Languages
 
@@ -87,11 +81,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ielkina&show_icons=true&theme=radical)
 
-
-
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ielkina&theme=radical&border_radius=5.4&locale=uk&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-
-
 
 ## Helpful YouTube Channel/Videos
 
